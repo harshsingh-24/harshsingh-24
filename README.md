@@ -1,7 +1,8 @@
 <div align="center">
   <h2 align = "center"> Hi there 👋 I'm Harsh Singh </h2>
 </div>
-<hr>
+
+<h3 align="center">A passionate C++ and AI developer from India</h3>
 
 - :star2: I'm a third year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
 - 🔭 I'm currently working on Machine Learning applications.
