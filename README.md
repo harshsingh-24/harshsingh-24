@@ -1,4 +1,4 @@
-<center> ### Hi there 👋 I'm Harsh Singh </center>
+<p align = "center"><b> Hi there 👋 I'm Harsh Singh </b></p>
 <hr>
 
 - :star2: I'm a third year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
