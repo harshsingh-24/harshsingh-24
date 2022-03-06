@@ -1,4 +1,6 @@
-<p align = "center"><b> Hi there 👋 I'm Harsh Singh </b></p>
+<div align="center">
+  <h2 align = "center"> Hi there 👋 I'm Harsh Singh </h2>
+</div>
 <hr>
 
 - :star2: I'm a third year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
