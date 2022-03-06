@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Harsh Singh
+<center> ### Hi there 👋 I'm Harsh Singh </center>
 <hr>
 
 - :star2: I'm a third year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
