@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Harsh Singh
+<p align = "center"><em> Hi there 👋 I'm Harsh Singh </em></p>
 <hr>
 
 <!--
