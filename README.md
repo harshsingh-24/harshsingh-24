@@ -6,7 +6,9 @@
 
 - :star2: I'm a third year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
 - 🔭 I'm currently working on Machine Learning applications.
-- 📫 How to reach me: [Email](mailto:intelligent24harsh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harsh-singh-jadon-55ab4519a/)
+- 📫 How to reach me: **intelligent24harsh@gmail.com**
+
+
 <!--
 **harshsingh-24/harshsingh-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
