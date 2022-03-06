@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Harsh Singh
+<hr>
 
 <!--
 **harshsingh-24/harshsingh-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
