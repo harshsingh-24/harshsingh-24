@@ -3,7 +3,7 @@ center (### Hi there 👋 I'm Harsh Singh
 
 - I'm a third year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
 - I'm currently working on Machine Learning applications.
-- Reach me at: [Email](mailto:intelligent24harsh@gmail.com)|[LinkedIn](https://www.linkedin.com/in/harsh-singh-jadon-55ab4519a/)
+- Reach me at: [Email](mailto:intelligent24harsh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harsh-singh-jadon-55ab4519a/)
 <!--
 **harshsingh-24/harshsingh-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
