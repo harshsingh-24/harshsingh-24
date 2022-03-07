@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align = "center"> Hi there 👋 I'm Harsh Singh </h2>
+  <h2 align = "center"> 👋 Hi there! I'm Harsh Singh </h2>
 </div>
 
 <h3 align="center">A passionate C++ and AI developer from India</h3>
