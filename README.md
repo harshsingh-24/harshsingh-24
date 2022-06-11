@@ -5,7 +5,7 @@
 <h3 align="center">A passionate C++ and AI developer from India</h3>
 
 - :star2: I'm a third year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
-- 🔭 I'm currently working on Socket Programming, Node.js and Docker.
+- 🔭 I'm currently working on DevOps build pipelines
 - 📫 How to reach me: **intelligent24harsh@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
