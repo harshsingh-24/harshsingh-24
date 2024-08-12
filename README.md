@@ -4,8 +4,8 @@
 
 <h3 align="center">A passionate C++ and AI developer from India</h3>
 
-- :star2: I'm a final year undergraduate student of Computer Science and Engineering at Indian Institute of Technology, Bhubaneswar.
-- 🔭 I'm currently working on DevOps build pipelines
+- 🔭 I'm currently working as a Software Engineer at Oracle
+- :star2: Indian Institute of Technology, Bhubaneswar (2023)
 - 📫 How to reach me: **intelligent24harsh@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
