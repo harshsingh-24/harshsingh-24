@@ -2,7 +2,7 @@
   <h2 align = "center"> 👋 Hi there! I'm Harsh Singh </h2>
 </div>
 
-<h3 align="center">A passionate C++ and AI developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 
 - 🔭 I'm currently working as a Software Engineer at Oracle
 - :star2: Indian Institute of Technology, Bhubaneswar (2023)
